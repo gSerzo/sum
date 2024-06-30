@@ -273,7 +273,7 @@ OrionLib:MakeNotification({
 	Image = "rbxassetid://4483345998",
 	Time = 5
 }) --Notification
-getgenv().Key = "18OziiHubQuitLockingNigger" --Put The Correct Key Here
+getgenv().Key = "gSerzodontlockcryaboutitnigga556" --Put The Correct Key Here
 getgenv().KeyInput = "string" --Require For The Key To Work
 local Tab = Window:MakeTab({
 	Name = "Key",
