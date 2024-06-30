@@ -331,7 +331,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Copy Key",
 	Callback = function()
-      		setclipboard("https://rentry.co/wig28yoo/raw") --This Will Copy The Link Of The Key
+      		setclipboard("https://direct-link.net/1196620/key") --This Will Copy The Link Of The Key
   	end    
 }) 
     
