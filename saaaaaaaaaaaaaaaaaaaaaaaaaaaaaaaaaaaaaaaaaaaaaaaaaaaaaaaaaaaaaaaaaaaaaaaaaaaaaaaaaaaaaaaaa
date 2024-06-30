@@ -1,7 +1,7 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))() --This Will Load The Script Code
 local Player = game.Players.LocalPlayer --This Will Reveal The Player Name
   local Window = OrionLib:MakeWindow({
-		Name = "EXAMPLE HOW TO MAKE A KEY SYSTEM FOR MOBILE",
+		Name = "serzo owns qon",
 		HidePremium = false,
 		SaveConfig = true,
 		ConfigFolder = "OrionTest",
@@ -9,13 +9,11 @@ local Player = game.Players.LocalPlayer --This Will Reveal The Player Name
 }) --This Will Load The Script Hub
 function MakeScriptHub()
 local PabloLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/BatuKvi123/PabloLibV3/main/PabloLibV3"))()
-local window = PabloLib:Create("18 Ozii | vloxs__24178 Hub","Enabled")
+local window = PabloLib:Create("deez nuts | nuts Hub","Enabled")
 -- tabs --
 local tab1 = window:CreateTab("SilentAim")
-tab1:CreateInfo("Made By 18Ozii | vloxs__24178")
+tab1:CreateInfo("Made By deez nuts | deez nuts")
 tab1:CreateInfo("Dont Try To Skid My Script Nigger")
-tab1:CreateInfo("Join Our Discord Also! :")
-tab1:CreateInfo("https://discord.com/invite/TyTbXCGe")
 -- buttons --
 tab1:CreateButton("GoldenArrow [0 - 50 Ping]", function()
 -- GoldenArrow [ 1 - 50 Ping ] --
